@@ -1,6 +1,6 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="green.css"
+THEME="white.css"
 DOMAIN="github.com/xkraz" #if you update the domain after the script has been run, You must disable and re enable JS or the whole theme.  
 ADD_JS="true"
 JS="custom_text_header.js"

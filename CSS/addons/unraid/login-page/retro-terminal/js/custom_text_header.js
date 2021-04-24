@@ -7,6 +7,8 @@
 
 let custom_text_header = `
 <div class="custom-text-header"> <pre>                               __    __                     ________ 
+
+           __    __                     ________ 
           |  \  /  \                   |        \
  __    __ | $$ /  $$  ______   ______   \$$$$$$$$
 |  \  /  \| $$/  $$  /      \ |      \     /  $$ 
@@ -15,6 +17,10 @@ let custom_text_header = `
  /  $$$$\ | $$ \$$\ | $$     |  $$$$$$$ /  $$___ 
 |  $$ \$$\| $$  \$$\| $$      \$$    $$|  $$    \
  \$$   \$$ \$$   \$$ \$$       \$$$$$$$ \$$$$$$$$
+                                                 
+                                                 
+                                                 
+
                                                                  </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
